@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=budgie-remix Logo
+Description=A theme that features an animated budgie-remix logo.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/budgie-remix-logo
+ScriptFile=/usr/share/plymouth/themes/budgie-remix-logo/budgie-remix-logo.script

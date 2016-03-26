@@ -1,0 +1,33 @@
+Source: budgie-remix-plymouth-theme
+Section: x11
+Priority: optional
+Maintainer: David Mohammed <foss.freedom@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Vcs-Git: https://github.com/budgie-remix/budgie-remix-plymouth-theme
+
+Package: plymouth-theme-budgie-remix-logo
+Architecture: all
+Depends: ${misc:Depends}, plymouth, plymouth-label
+Provides: plymouth-theme
+Breaks: plymouth (<< 0.9.2-3ubuntu1~),
+Description: graphical boot animation and logger - budgie-remix-logo theme
+ Plymouth is an application that runs very early in the boot process
+ (even before the root filesystem is mounted!) that provides a graphical
+ boot animation while the boot process happens in the background.
+ .
+ This package contains the default budgie-remix-logo theme.
+
+Package: plymouth-theme-budgie-remix-text
+Architecture: all
+Depends: ${misc:Depends}, plymouth, plymouth-theme-ubuntu-text
+Provides: plymouth-theme
+Replaces: plymouth (<< 0.8.1-1~)
+Breaks: plymouth (<< 0.9.2-3ubuntu1~),
+Description: graphical boot animation and logger - budgie-remix-text theme
+ Plymouth is an application that runs very early in the boot process
+ (even before the root filesystem is mounted!) that provides a graphical
+ boot animation while the boot process happens in the background.
+ .
+ This package contains the default budgie-remix-text text theme used when no
+ support for a graphical theme is found on your system.

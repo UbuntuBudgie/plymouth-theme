@@ -1,3 +1,9 @@
+budgie-remix-plymouth-theme (0.2) xenial; urgency=medium
+
+  * rebase on ubuntu-mate-plymouth-theme
+
+ -- HEXcube <hexcube@HEXlap>  Thu, 31 Mar 2016 23:59:20 +0530
+
 budgie-remix-plymouth-theme (0.1) xenial; urgency=low
 
   * Initial release. (LP #00001)

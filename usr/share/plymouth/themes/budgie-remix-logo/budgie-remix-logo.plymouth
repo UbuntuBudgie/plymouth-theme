@@ -1,6 +1,6 @@
 [Plymouth Theme]
-Name=budgie-remix Logo
-Description=A theme that features an animated budgie-remix logo.
+Name=budgie-remix bootsplash
+Description=A Plymouth theme for budgie-remix
 ModuleName=script
 
 [script]

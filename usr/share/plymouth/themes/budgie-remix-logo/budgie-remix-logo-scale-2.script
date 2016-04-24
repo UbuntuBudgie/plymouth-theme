@@ -194,13 +194,13 @@ Window.SetBackgroundBottomColor (0.2196, 0.2353, 0.2902);  # an equally nice col
 
 bits_per_pixel = Window.GetBitsPerPixel ();
 if (bits_per_pixel == 4) {
-    logo_filename = "budgie-remix-logo16.png";
+    logo_filename = "budgie-remix-logo16@2.png";
     progress_dot_off_filename = "progress_dot_off16.png";
     progress_dot_on_filename = "progress_dot_on16.png";
     password_field_filename = "password_field16.png";
     question_field_filename = "password_field16.png";
 } else {
-    logo_filename = "budgie-remix-logo.png";
+    logo_filename = "budgie-remix-logo@2.png";
     progress_dot_off_filename = "progress_dot_off.png";
     progress_dot_on_filename = "progress_dot_on.png";
     password_field_filename = "password_field.png";

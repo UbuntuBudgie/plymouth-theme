@@ -1,8 +1,16 @@
+budgie-remix-plymouth-theme (0.3) xenial; urgency=medium
+
+  * Change progress dots's off color to mid grey
+  * Add new progess dots for HiDPI support
+  * Add metadata inside progress dot files
+
+ -- HEXcube <hexcubed@gmail.com>  Wed, 11 May 2016 22:05:09 +0530
+
 budgie-remix-plymouth-theme (0.2) xenial; urgency=medium
 
   * rebase on ubuntu-mate-plymouth-theme
 
- -- HEXcube <hexcube@HEXlap>  Thu, 31 Mar 2016 23:59:20 +0530
+ -- HEXcube <hexcubed@gmail.com>  Thu, 31 Mar 2016 23:59:20 +0530
 
 budgie-remix-plymouth-theme (0.1) xenial; urgency=low
 

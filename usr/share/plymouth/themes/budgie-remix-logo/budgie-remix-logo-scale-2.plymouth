@@ -1,8 +1,8 @@
 [Plymouth Theme]
-Name=budgie-remix Logo
+Name=budgie-remix Logo (Scale x2)
 Description=A theme that features the budgie-remix logo on a blank background.
 ModuleName=script
 
 [script]
 ImageDir=/usr/share/plymouth/themes/budgie-remix-logo
-ScriptFile=/usr/share/plymouth/themes/budgie-remix-logo/budgie-remix-logo.script
+ScriptFile=/usr/share/plymouth/themes/budgie-remix-logo/budgie-remix-logo-scale-2.script

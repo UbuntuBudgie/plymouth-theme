@@ -1,4 +1,4 @@
-budgie-remix Plymouth Splash 16.04
+Ubuntu Budgie Plymouth Splash 16.10
 ============================
-Bootsplash theme for budgie-remix
+Bootsplash theme for Ubuntu Budgie
 

@@ -1,6 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: budgie-remix-plymouth-theme
-Source: https://github.com/budgie-remix/budgie-remix-plymouth-theme
+Upstream-Name: plymouth-theme
+Source: https://github.com/budgie-remix/plymouth-theme
 
 Files: *
 Copyright: David Mohammed <foss.freedom@gmail.com>

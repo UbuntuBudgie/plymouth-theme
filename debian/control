@@ -3,10 +3,10 @@ Section: x11
 Priority: optional
 Maintainer: David Mohammed <foss.freedom@gmail.com>
 Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.6
+Standards-Version: 3.9.8
 Vcs-Git: https://github.com/budgie-remix/plymouth-theme
 
-Package: plymouth-theme-budgie-logo
+Package: plymouth-theme-ubuntu-budgie-logo
 Architecture: all
 Depends: ${misc:Depends}, plymouth, plymouth-label
 Provides: plymouth-theme
@@ -18,7 +18,7 @@ Description: graphical boot animation and logger - budgie-logo theme
  .
  This package contains the default budgie-logo theme.
 
-Package: plymouth-theme-budgie-text
+Package: plymouth-theme-ubuntu-budgie-text
 Architecture: all
 Depends: ${misc:Depends}, plymouth, plymouth-theme-ubuntu-text
 Provides: plymouth-theme
